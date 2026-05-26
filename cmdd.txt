@@ -1,4 +1,8 @@
-or create a new repository on the command line
+--->>
+github mail:
+moumitaghose31@gmail.com
+
+.....or create a new repository on the command line
 echo "# first-project" >> README.md
 git init
 git add README.md
